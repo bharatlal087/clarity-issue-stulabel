@@ -1,0 +1,6 @@
+module STULabelSwift {
+  umbrella header "STULabelSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

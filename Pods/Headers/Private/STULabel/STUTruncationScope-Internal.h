@@ -1,0 +1,1 @@
+../../../STULabel/STULabel/STUTruncationScope-Internal.h

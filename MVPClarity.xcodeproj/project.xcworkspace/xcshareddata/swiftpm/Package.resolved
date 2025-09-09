@@ -1,0 +1,15 @@
+{
+  "originHash" : "819f295014c72d579432a14885155f319a27f147aa3875e1ac8fb6253eb37bb3",
+  "pins" : [
+    {
+      "identity" : "clarity-apps",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/clarity-apps",
+      "state" : {
+        "revision" : "4b1dba23a993d07c70cf24010cbb0f0649f1e963",
+        "version" : "3.0.17"
+      }
+    }
+  ],
+  "version" : 3
+}

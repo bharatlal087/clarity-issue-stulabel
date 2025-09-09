@@ -1,0 +1,20 @@
+PODS:
+  - STULabel (0.8.12)
+  - STULabelSwift (0.8.12):
+    - STULabel (~> 0.8.12)
+
+DEPENDENCIES:
+  - STULabelSwift (~> 0.8.11)
+
+SPEC REPOS:
+  trunk:
+    - STULabel
+    - STULabelSwift
+
+SPEC CHECKSUMS:
+  STULabel: 1d44add2f976d4b2bc05bdef688113bc15327337
+  STULabelSwift: 2d8a7f7f9cd829814ff2e716ba9d9e17410ac038
+
+PODFILE CHECKSUM: 6e1b19566e864af50ab36cd844412e255dd820fa
+
+COCOAPODS: 1.16.2

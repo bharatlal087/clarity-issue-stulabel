@@ -1,0 +1,6 @@
+module Pods_MVPClarity {
+  umbrella header "Pods-MVPClarity-umbrella.h"
+
+  export *
+  module * { export * }
+}
